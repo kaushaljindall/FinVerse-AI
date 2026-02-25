@@ -25,7 +25,7 @@
 
 ---
 
-## 📖 Table of Contents
+<!-- ## 📖 Table of Contents
 
 - [What is FinVerse AI?](#-what-is-finverse-ai)
 - [Why FinVerse AI?](#-why-finverse-ai)
@@ -42,7 +42,7 @@
 - [Contributing](#-contributing)
 - [License](#-license)
 
----
+--- -->
 
 ## 🧠 What is FinVerse AI?
 
@@ -363,7 +363,7 @@ FinVerse-AI/
 
 ---
 
-## 🚀 Getting Started
+<!-- ## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -487,51 +487,51 @@ CHROMA_PERSIST_DIR=./data/chroma_db
 EMBEDDING_MODEL=all-MiniLM-L6-v2
 ```
 
----
+--->
 
 ## 📅 Development Roadmap
 
-### Phase 1 — Foundation *(Week 1–2)*
+### Phase 1 — Foundation 
 - [x] Project scaffolding & architecture design
 - [ ] FastAPI backend with authentication
 - [ ] React frontend with dashboard skeleton
 - [ ] Database setup (PostgreSQL + MongoDB)
 - [ ] Basic transaction data model
 
-### Phase 2 — Streaming Intelligence *(Week 2–3)*
+### Phase 2 — Streaming Intelligence 
 - [ ] Pathway integration for real-time transaction streaming
 - [ ] Behavioral modeling engine (spend vectors, category tracking)
 - [ ] Transaction Intelligence Agent (Agent 1)
 - [ ] Real-time transaction feed on frontend
 
-### Phase 3 — Knowledge & RAG *(Week 3–4)*
+### Phase 3 — Knowledge & RAG 
 - [ ] Document ingestion pipeline (PDF, PPTX, DOC)
 - [ ] ChromaDB vector store setup
 - [ ] RAG retrieval engine
 - [ ] Compliance Validator Agent (Agent 4)
 - [ ] Document upload UI
 
-### Phase 4 — Agentic Core *(Week 4–5)*
+### Phase 4 — Agentic Core 
 - [ ] LangGraph orchestration setup
 - [ ] Fraud Risk Agent (Agent 2)
 - [ ] Budget Guardian Agent (Agent 3)
 - [ ] Explanation Agent (Agent 6)
 - [ ] Agent execution viewer on frontend
 
-### Phase 5 — Visible Search *(Week 5–6)*
+### Phase 5 — Visible Search    
 - [ ] SerpAPI / Tavily integration
 - [ ] Shopping Intelligence Agent (Agent 5) with visible execution
 - [ ] Streaming search panel on frontend
 - [ ] Budget-aware purchase recommendations
 - [ ] Historical price trend analysis
 
-### Phase 6 — Polish & Advanced *(Week 6–7)*
+<!-- ### Phase 6 — Polish & Advanced 
 - [ ] Auto subscription renewal detection
 - [ ] Fake price inflation detection
 - [ ] Price drop prediction ("suggest waiting")
 - [ ] Full ReAct-style agent loop
 - [ ] Docker deployment
-- [ ] Performance optimization
+- [ ] Performance optimization -->
 
 ---
 
@@ -681,7 +681,7 @@ Visible to User:
 
 ---
 
-## 🤝 Contributing
+<!-- ## 🤝 Contributing
 
 We welcome contributions! Here's how to get started:
 
@@ -699,7 +699,7 @@ Please ensure your code follows the project's coding standards and includes appr
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
----
+--->
 
 <p align="center">
   <b>Built with 🧠 by <a href="https://github.com/kaushaljindall">Kaushal Jindal</a></b><br/>
