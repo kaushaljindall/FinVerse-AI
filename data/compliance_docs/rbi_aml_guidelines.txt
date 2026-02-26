@@ -1,0 +1,55 @@
+RESERVE BANK OF INDIA — ANTI-MONEY LAUNDERING GUIDELINES (SIMPLIFIED)
+
+Section 1: Customer Due Diligence (CDD)
+1.1 Banks must verify the identity of all customers before establishing a business relationship.
+1.2 Enhanced due diligence must be performed for high-risk customers, including politically exposed persons (PEPs).
+1.3 Customer identification records must be maintained for a minimum of 5 years after the business relationship has ended.
+
+Section 2: Transaction Monitoring
+2.1 Cash transactions exceeding ₹10,00,000 (Ten Lakh Rupees) must be reported to the Financial Intelligence Unit (FIU-IND).
+2.2 All series of cash transactions integrally connected to each other which have been valued below ₹10,00,000 but aggregate value exceeds ₹10,00,000 must also be reported.
+2.3 Suspicious transactions must be reported regardless of the amount involved.
+2.4 A suspicious transaction means a transaction which gives rise to a reasonable ground of suspicion that it may involve the proceeds of an offence.
+
+Section 3: Record Keeping
+3.1 Records of all transactions must be maintained for at least 5 years from the date of the transaction.
+3.2 Records of customer identification data must be maintained for at least 5 years after the business relationship has ended.
+
+Section 4: Reporting Obligations
+4.1 Monthly Cash Transaction Report (CTR) must be filed with FIU-IND for all cash transactions above ₹10,00,000.
+4.2 Suspicious Transaction Reports (STR) must be filed within 7 days of arriving at a conclusion that the transaction is suspicious.
+4.3 Cross-border wire transfer reports must be filed for all international transfers.
+
+Section 5: Fraud Prevention
+5.1 Banks must implement real-time fraud detection systems.
+5.2 Unusual patterns such as sudden large transactions, transactions at unusual hours, and transactions from high-risk jurisdictions must be flagged.
+5.3 Multiple transactions just below the reporting threshold (structuring) must be identified and reported.
+
+Section 6: Digital Payment Guidelines
+6.1 All digital payment transactions must be authenticated with at least two-factor authentication.
+6.2 Transaction limits for digital payments: UPI — ₹1,00,000 per transaction; NEFT — No limit; RTGS — Minimum ₹2,00,000.
+6.3 Failed transactions must be reversed within T+5 working days.
+
+Section 7: Consumer Protection
+7.1 Banks must provide clear disclosure of all charges and fees.
+7.2 Interest rate changes must be communicated to customers 30 days in advance.
+7.3 Loan agreements must include total cost of credit disclosure.
+7.4 Customers have the right to request their credit information from credit bureaus.
+
+Section 8: Investment Advisory Guidelines
+8.1 Financial advisors must not guarantee returns on investments.
+8.2 Risk factors must be clearly disclosed for all investment products.
+8.3 Suitability assessment must be conducted before recommending investment products.
+8.4 Past performance disclaimers must be included in all investment recommendations.
+
+Section 9: Insurance Regulations
+9.1 Insurance policies must clearly state exclusions and limitations.
+9.2 Claim settlement must be completed within 30 days of receiving all required documents.
+9.3 Policy cancellation within the free-look period (15 days) must result in full premium refund.
+9.4 Mis-selling of insurance products is a punishable offence.
+
+Section 10: Credit Card Regulations
+10.1 Credit card billing must include minimum amount due and total outstanding.
+10.2 Interest on credit cards cannot exceed the RBI prescribed cap.
+10.3 Unsolicited credit cards must not be issued.
+10.4 Credit card rewards and benefits must be clearly communicated.
