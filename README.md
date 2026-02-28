@@ -46,7 +46,7 @@
 
 ## 🧠 What is FinVerse AI?
 
-**FinVerse AI** is not a chatbot. It's a **full-stack financial operating system** powered by autonomous AI agents that reason, validate, search, and justify decisions in real time.
+**FinVerse AI** is not a chatbot. It's a **full-stack financial Application** powered by autonomous AI agents that reason, validate, search, and justify decisions in real time.
 
 Think of it as an **AI brain for your financial life** — one that:
 
