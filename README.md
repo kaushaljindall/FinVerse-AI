@@ -51,7 +51,7 @@
 Think of it as an **AI brain for your financial life** — one that:
 
 - 📡 **Streams** your transaction data in real time
-- 🤖 **Deploys 6 specialized AI agents** that work together
+- 🤖 **Deploys multiple specialized AI agents** that work together
 - 🔍 **Searches the web visibly** (you see every query, every result — like watching an AI think)
 - 📚 **Uses RAG** over compliance docs, policies, and your own financial documents
 - 💬 **Explains every decision** with transparent, structured reasoning
